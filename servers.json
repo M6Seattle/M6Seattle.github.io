@@ -58,7 +58,7 @@
     },
     {
       "name": "m6seattle's server",
-      "address": "http://192.168.0.102:6969"
+      "address": "147.224.255.81:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
